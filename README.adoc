@@ -1,4 +1,4 @@
-= lexy
+=#lexy
 
 ifdef::env-github[]
 image:https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jonathanmueller.dev%2Fproject%2Flexy%2Findex.json[Project Status,link=https://www.jonathanmueller.dev/project/]
@@ -172,3 +172,4 @@ target_link_libraries(lexy_example PRIVATE foonathan::lexy)
 
 endif::[]
 
+ 
