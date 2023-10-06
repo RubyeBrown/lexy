@@ -1,5 +1,5 @@
-# Copyright (C) 2020-2023 Jonathan Müller and lexy contributors
-# SPDX-License-Identifier: BSL-1.0
+! Copyright (C) 2020-2023 Jonathan Müller and lexy contributors
+! SPDX-License-Identifier: BSL-1.0
 
 cmake_minimum_required(VERSION 3.8)
 project(lexy VERSION 2022.12.1 LANGUAGES CXX)
@@ -77,3 +77,4 @@ if(CMAKE_CURRENT_SOURCE_DIR STREQUAL CMAKE_SOURCE_DIR)
             PATTERN "*.hpp")
     endif()
 endif()
+ 
